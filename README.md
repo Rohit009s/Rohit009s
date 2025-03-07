@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Neelam</h1>
 <h3 align="center">an enthusiastic Electronics and Communication Engineering (ECE) student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit009s&label=Profile%20views&color=0e75b6&style=flat" alt="rohit009s" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit009s" alt="rohit009s" /></a> </p>
 
 - 🔭 I’m currently working on [Vehicle-to-Infrastructure (V2I) Smart Traffic Management System](https://github.com/Rohit009s/Smart-Parking-hardware-intigration-.git)
@@ -22,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/myself_rohit09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myself_rohit09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit neelam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit neelam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neelam-rohit-16b972267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelam-rohit-16b972267" height="30" width="40" /></a>
 <a href="https://instagram.com/myself_rohit09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myself_rohit09" height="30" width="40" /></a>
 </p>
 
@@ -32,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit009s&show_icons=true&locale=en&layout=compact" alt="rohit009s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit009s&show_icons=true&locale=en" alt="rohit009s" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit009s&" alt="rohit009s" /></p>
